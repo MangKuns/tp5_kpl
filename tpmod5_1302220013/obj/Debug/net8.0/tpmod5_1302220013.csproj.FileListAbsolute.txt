@@ -12,3 +12,4 @@ D:\Kuliah Universitas Telkom\Semester4\KPL\tpmod5_1302220013\tpmod5_1302220013\o
 D:\Kuliah Universitas Telkom\Semester4\KPL\tpmod5_1302220013\tpmod5_1302220013\obj\Debug\net8.0\tpmod5_1302220013.pdb
 D:\Kuliah Universitas Telkom\Semester4\KPL\tpmod5_1302220013\tpmod5_1302220013\obj\Debug\net8.0\tpmod5_1302220013.genruntimeconfig.cache
 D:\Kuliah Universitas Telkom\Semester4\KPL\tpmod5_1302220013\tpmod5_1302220013\obj\Debug\net8.0\ref\tpmod5_1302220013.dll
+D:\Kuliah Universitas Telkom\Semester4\KPL\tpmod5_1302220013\tpmod5_1302220013\obj\Debug\net8.0\tpmod5_1302220013.sourcelink.json
